@@ -70,24 +70,6 @@ Adicione codigo abaixo dentro do Schema
 
 ```
 
-### Baixe os arquivos no Git oficial 
-
-```bash
-https://github.com/nocodeleaks/quepasa
-```
-
-![image](https://github.com/cwmkt/dockerquepasa/assets/91642837/9a69690d-8c7e-4ed9-a5ca-ce9632a05456)
-
-
-Suba pasta \quepasa-main\src do Quepasa dentro volume
-
-```bash
-/etc/easypanel/projects/nomedoprojeto/quepasa/volumes/quepasa_lab_volume
-```
-
-![image](https://github.com/user-attachments/assets/54469215-e3d3-444a-9db4-a55e53f5e732)
-
-
 Acesse: seudominio.com.br/setup
 
 Faça seu cadastro
